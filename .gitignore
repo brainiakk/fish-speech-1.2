@@ -1,0 +1,9 @@
+checkpoints
+venv
+austin.wav
+*.npy
+outputs
+.DS_Store
+__pycache__
+.idea
+fake.wav
